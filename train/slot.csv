@@ -12,9 +12,10 @@
 0 0 0, "can you play that song again"
 0 0 0, "play that again"
 0 0 0 TERM, "search google for something"
-0 0 TERM TERM, 'search for python documentation"
+0 0 TERM TERM, "search for python documentation"
 0 0 TERM, "search pokemon"
 0 0 0 TERM, "search youtube for something"
-0 TERM TERM, 'youtube python tutorials"
+0 TERM TERM, "youtube python tutorials"
 0 TERM, "youtube music"
-0 TERM TERM TERM TERM 0 0, 'play astronaut in the ocean on youtube'
+0 TERM TERM TERM TERM 0 0, "play astronaut in the ocean on youtube"
+0 TERM TERM 0 0, "search mad love on youtube"
